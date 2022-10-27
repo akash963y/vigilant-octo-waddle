@@ -15,14 +15,14 @@ Merges two or more lists into a list of lists, combining elements from each of t
 Python, String
 Python's f-strings can do a lot more than you might expect. Learn a few useful tips and tricks in this quick guide.
 
-Tip: Watch out for mutable default arguments in Python
-Python, Function
-Mutable default arguments can trip up Python beginners and veterans alike. Here's a quick workaround to deal with them.
+Date range
+Python, Date
+Creates a list of dates between start (inclusive) and end (not inclusive).
 
-Invert dictionary
+Combine dictionary values
 Python, Dictionary
-Inverts a dictionary with non-unique hashable values.
+Combines two or more dictionaries, creating a list of values for each key.
 
-Count grouped elements
-Python, List
-Groups the elements of a list based on the given function and returns the count of elements in each group.
+Hex to RGB
+Python, String
+Converts a hexadecimal color code to a tuple of integers corresponding to its RGB components.
